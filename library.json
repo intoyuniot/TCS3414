@@ -1,0 +1,17 @@
+{
+    "name": "TCS3414",
+    "version": "1.0.0",
+    "keywords": "TCS3414",
+    "description": "TCS3414数字颜色传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/TCS3414.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

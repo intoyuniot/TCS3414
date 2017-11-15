@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+TCS3414    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getPartNumber  KEYWORD2
+getRevisionNumber  KEYWORD2
+setIntegrationTime  KEYWORD2
+setGain  KEYWORD2
+getRawData  KEYWORD2
+getLux  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
